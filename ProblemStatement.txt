@@ -1,0 +1,8 @@
+Case study Problem defination:
+
+
+Contoso multinational company wanted to build and host 
+"Corporate Customer Accounting Solution" in web.They also want 
+ this website to hosted on public cloud Google Platform or AWS
+as they have their Offices all over the world and Employee from any 
+office can access this information.
