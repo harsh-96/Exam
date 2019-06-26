@@ -6,3 +6,13 @@ Contoso multinational company wanted to build and host
  this website to hosted on public cloud Google Platform or AWS
 as they have their Offices all over the world and Employee from any 
 office can access this information.
+
+--functional requirements:
+Descriptions of data to be entered into the system
+Descriptions of operations performed by each screen
+Descriptions of work-flows performed by the system
+Descriptions of system reports or other outputs
+Who can enter the data into the system
+
+--non functional requirement:
+1.security for the website.
